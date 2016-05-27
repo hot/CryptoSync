@@ -27,7 +27,7 @@ CryptoSync is a simple,light-weight file backup with AES encryption.
 "mode" : "decrypt"
 ~~~~
 * fill your password
-* edit "decrypt_config" with your source dir and the backup dir
+* edit "decrypt_config" with your backup dir and the decrypt dir
 * run csync.py, if you use Windows, double click on csync.py will be fine.
 
 ##At Last
