@@ -7,12 +7,14 @@ CryptoSync is a simple,light-weight file backup with AES encryption.
 * AES-256 bit encryption,
 * Hash check to skip existed encryped files
 
-##HOWTO
-* Config.ini is a json file.
-* BackUp config:
- * Change the mode line:
+##HowTo
+>Config.ini is a json file.
+* BackUp:
+ * Change the mode line to encrypt:
+  * >"mode" : "encrypt"
+* Restore:
+ *  Change the mode line to decrypt:
   * "mode" : "encrypt"
-  
 
 
 Edit the config.ini and just Run 
