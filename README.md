@@ -1,4 +1,4 @@
-# CryptoSync: simple backup you data with more security
+# CryptoSync: 
 
 ##Intro
 
