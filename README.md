@@ -1,4 +1,4 @@
-# CryptoSync: 
+# CryptoSync: backup your data with cryptography
 
 ##Intro
 
