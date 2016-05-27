@@ -1,9 +1,4 @@
 # CryptoSync: simple back you data more security
-===============================================
-
-##TODOLIST
-* Add cmd line argument parser.
-
 
 ##Intro
 
